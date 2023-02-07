@@ -4,6 +4,10 @@ Hybrid Quantum-Classical Convolutional Neural Network to classify esophagus canc
 
 Data Challenge: Data Challenge by Mauna Kea (Challenge Link: https://challengedata.ens.fr/participants/challenges/11/)
 
+## Results
+
+![image](https://user-images.githubusercontent.com/80008587/217343242-a2c0fa5b-17ac-471c-8155-deac142ed607.png)
+
 ## References
 
 1.Hybrid quantum-classical Neural Networks with PyTorch and Qiskit: https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html
