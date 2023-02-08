@@ -6,7 +6,8 @@ Data Challenge: Data Challenge by Mauna Kea (Challenge Link: https://challengeda
 
 ## Results
 
-![image](https://user-images.githubusercontent.com/80008587/217343242-a2c0fa5b-17ac-471c-8155-deac142ed607.png)
+![image](https://user-images.githubusercontent.com/80008587/217667065-bc6d4c8f-5cbc-4126-ac4e-b03bf06eb87c.png)
+
 
 ## References
 
